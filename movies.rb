@@ -1,4 +1,4 @@
-Movies = {:HE_Got_Game => 1998, 
+movies = {:HE_Got_Game => 1998, 
 :Clockers => 1992, 
 :Intouchables => 2012, 
 :Lost => 2004, 
@@ -6,4 +6,4 @@ Movies = {:HE_Got_Game => 1998,
 :Suits => 2011, 
 :Silicon_Valley => 2014}
 
-puts Movies
+puts movies
