@@ -17,7 +17,18 @@ puts "I am going to say your name 10 times"
 
 10.times do 
 
-puts name,  " "
+puts name
 end
+
+#my answer which turned out to be wrong
+puts "What is your first name?"
+
+first = gets.chomp
+
+puts "What is your last name?"
+
+last = gets.chomp
+
+puts "So your name is #{first} " " #{last}"
 
 
