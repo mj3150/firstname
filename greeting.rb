@@ -1,0 +1,8 @@
+def greeting(hello)
+	puts hello + "."
+end
+
+greeting("Hello, how are you?")
+greeting("I am swell")
+
+
