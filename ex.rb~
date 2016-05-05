@@ -1,0 +1,9 @@
+x = 2 #prints nothing, it just goes to the next line.
+
+puts x = 2 # it puts 2
+
+p name = "Joe" #it puts "Joe"
+
+four = "four" #it puts nothing
+
+print something = "nothing"
